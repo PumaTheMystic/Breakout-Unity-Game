@@ -1,0 +1,20 @@
+Design
+1) Make the game edges
+2) Make the bricks
+3) Make a player with a rectangle and a circle on-top of it
+
+Folders
+1) Put all the bricks in a folder
+2) Put the player in a folder!
+4) Put the walls in a wall folder
+3) In the brick folder make a empty object for easy moving
+
+Code
+1) Put the paddle or player code on the player folder
+2) Put the brick code on the brick
+3) Put the Wall code on the walls
+
+Controls
+A=Left
+S=Right
+Space=Fire
